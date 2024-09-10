@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lukyg\\OneDrive\\Escritorio\\FACU\\.NET\\.NET-TP\\WindowsFormsWithServices\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C708C5A5-1C3B-4D7E-A625-8BED5FDA23B6}|Domain\\Domain.csproj|c:\\users\\lukyg\\onedrive\\escritorio\\facu\\.net\\.net-tp\\windowsformswithservices\\domain\\services\\personaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C708C5A5-1C3B-4D7E-A625-8BED5FDA23B6}|Domain\\Domain.csproj|solutionrelative:domain\\services\\personaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3151D219-3717-4261-9238-E0AA8ADA2E4D}|WindowsForms\\WindowsForms.csproj|c:\\users\\lukyg\\onedrive\\escritorio\\facu\\.net\\.net-tp\\windowsformswithservices\\windowsforms\\personadetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3151D219-3717-4261-9238-E0AA8ADA2E4D}|WindowsForms\\WindowsForms.csproj|solutionrelative:windowsforms\\personadetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C708C5A5-1C3B-4D7E-A625-8BED5FDA23B6}|Domain\\Domain.csproj|c:\\users\\lukyg\\onedrive\\escritorio\\facu\\.net\\.net-tp\\windowsformswithservices\\domain\\personacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C708C5A5-1C3B-4D7E-A625-8BED5FDA23B6}|Domain\\Domain.csproj|solutionrelative:domain\\personacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3151D219-3717-4261-9238-E0AA8ADA2E4D}|WindowsForms\\WindowsForms.csproj|c:\\users\\lukyg\\onedrive\\escritorio\\facu\\.net\\.net-tp\\windowsformswithservices\\windowsforms\\personaslista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3151D219-3717-4261-9238-E0AA8ADA2E4D}|WindowsForms\\WindowsForms.csproj|solutionrelative:windowsforms\\personaslista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3151D219-3717-4261-9238-E0AA8ADA2E4D}|WindowsForms\\WindowsForms.csproj|c:\\users\\lukyg\\onedrive\\escritorio\\facu\\.net\\.net-tp\\windowsformswithservices\\windowsforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3151D219-3717-4261-9238-E0AA8ADA2E4D}|WindowsForms\\WindowsForms.csproj|solutionrelative:windowsforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C708C5A5-1C3B-4D7E-A625-8BED5FDA23B6}|Domain\\Domain.csproj|c:\\users\\lukyg\\onedrive\\escritorio\\facu\\.net\\.net-tp\\windowsformswithservices\\domain\\model\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C708C5A5-1C3B-4D7E-A625-8BED5FDA23B6}|Domain\\Domain.csproj|solutionrelative:domain\\model\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3151D219-3717-4261-9238-E0AA8ADA2E4D}|WindowsForms\\WindowsForms.csproj|c:\\users\\lukyg\\onedrive\\escritorio\\facu\\.net\\.net-tp\\windowsformswithservices\\windowsforms\\personaslista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3151D219-3717-4261-9238-E0AA8ADA2E4D}|WindowsForms\\WindowsForms.csproj|solutionrelative:windowsforms\\personaslista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3151D219-3717-4261-9238-E0AA8ADA2E4D}|WindowsForms\\WindowsForms.csproj|c:\\users\\lukyg\\onedrive\\escritorio\\facu\\.net\\.net-tp\\windowsformswithservices\\windowsforms\\personaslista.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3151D219-3717-4261-9238-E0AA8ADA2E4D}|WindowsForms\\WindowsForms.csproj|solutionrelative:windowsforms\\personaslista.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3151D219-3717-4261-9238-E0AA8ADA2E4D}|WindowsForms\\WindowsForms.csproj|c:\\users\\lukyg\\onedrive\\escritorio\\facu\\.net\\.net-tp\\windowsformswithservices\\windowsforms\\personaapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3151D219-3717-4261-9238-E0AA8ADA2E4D}|WindowsForms\\WindowsForms.csproj|solutionrelative:windowsforms\\personaapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E47EC2-8DB0-4B10-BF50-814B7047B468}|WebAPI\\WebAPI.csproj|c:\\users\\lukyg\\onedrive\\escritorio\\facu\\.net\\.net-tp\\windowsformswithservices\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12E47EC2-8DB0-4B10-BF50-814B7047B468}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersonaContext.cs",
+              "DocumentMoniker": "C:\\Users\\lukyg\\OneDrive\\Escritorio\\FACU\\.NET\\.NET-TP\\WindowsFormsWithServices\\Domain\\PersonaContext.cs",
+              "RelativeDocumentMoniker": "Domain\\PersonaContext.cs",
+              "ToolTip": "C:\\Users\\lukyg\\OneDrive\\Escritorio\\FACU\\.NET\\.NET-TP\\WindowsFormsWithServices\\Domain\\PersonaContext.cs",
+              "RelativeToolTip": "Domain\\PersonaContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T21:52:04.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PersonasLista.cs",
+              "DocumentMoniker": "C:\\Users\\lukyg\\OneDrive\\Escritorio\\FACU\\.NET\\.NET-TP\\WindowsFormsWithServices\\WindowsForms\\PersonasLista.cs",
+              "RelativeDocumentMoniker": "WindowsForms\\PersonasLista.cs",
+              "ToolTip": "C:\\Users\\lukyg\\OneDrive\\Escritorio\\FACU\\.NET\\.NET-TP\\WindowsFormsWithServices\\WindowsForms\\PersonasLista.cs",
+              "RelativeToolTip": "WindowsForms\\PersonasLista.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAowCoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T23:07:52.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonaDetalle.cs",
+              "DocumentMoniker": "C:\\Users\\lukyg\\OneDrive\\Escritorio\\FACU\\.NET\\.NET-TP\\WindowsFormsWithServices\\WindowsForms\\PersonaDetalle.cs",
+              "RelativeDocumentMoniker": "WindowsForms\\PersonaDetalle.cs",
+              "ToolTip": "C:\\Users\\lukyg\\OneDrive\\Escritorio\\FACU\\.NET\\.NET-TP\\WindowsFormsWithServices\\WindowsForms\\PersonaDetalle.cs",
+              "RelativeToolTip": "WindowsForms\\PersonaDetalle.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAowC8AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T22:26:15.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonaService.cs",
+              "DocumentMoniker": "C:\\Users\\lukyg\\OneDrive\\Escritorio\\FACU\\.NET\\.NET-TP\\WindowsFormsWithServices\\Domain\\Services\\PersonaService.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\PersonaService.cs",
+              "ToolTip": "C:\\Users\\lukyg\\OneDrive\\Escritorio\\FACU\\.NET\\.NET-TP\\WindowsFormsWithServices\\Domain\\Services\\PersonaService.cs",
+              "RelativeToolTip": "Domain\\Services\\PersonaService.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAIwDkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T21:52:56.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lukyg\\OneDrive\\Escritorio\\FACU\\.NET\\.NET-TP\\WindowsFormsWithServices\\WindowsForms\\Program.cs",
+              "RelativeDocumentMoniker": "WindowsForms\\Program.cs",
+              "ToolTip": "C:\\Users\\lukyg\\OneDrive\\Escritorio\\FACU\\.NET\\.NET-TP\\WindowsFormsWithServices\\WindowsForms\\Program.cs",
+              "RelativeToolTip": "WindowsForms\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T22:25:17.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\lukyg\\OneDrive\\Escritorio\\FACU\\.NET\\.NET-TP\\WindowsFormsWithServices\\Domain\\Model\\Persona.cs",
+              "RelativeDocumentMoniker": "Domain\\Model\\Persona.cs",
+              "ToolTip": "C:\\Users\\lukyg\\OneDrive\\Escritorio\\FACU\\.NET\\.NET-TP\\WindowsFormsWithServices\\Domain\\Model\\Persona.cs",
+              "RelativeToolTip": "Domain\\Model\\Persona.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T22:08:12.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PersonasLista.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\lukyg\\OneDrive\\Escritorio\\FACU\\.NET\\.NET-TP\\WindowsFormsWithServices\\WindowsForms\\PersonasLista.cs",
+              "RelativeDocumentMoniker": "WindowsForms\\PersonasLista.cs",
+              "ToolTip": "C:\\Users\\lukyg\\OneDrive\\Escritorio\\FACU\\.NET\\.NET-TP\\WindowsFormsWithServices\\WindowsForms\\PersonasLista.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WindowsForms\\PersonasLista.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T23:20:57.181Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PersonasLista.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\lukyg\\OneDrive\\Escritorio\\FACU\\.NET\\.NET-TP\\WindowsFormsWithServices\\WindowsForms\\PersonasLista.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsForms\\PersonasLista.Designer.cs",
+              "ToolTip": "C:\\Users\\lukyg\\OneDrive\\Escritorio\\FACU\\.NET\\.NET-TP\\WindowsFormsWithServices\\WindowsForms\\PersonasLista.Designer.cs",
+              "RelativeToolTip": "WindowsForms\\PersonasLista.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGIAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T22:25:03.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PersonaApiClient.cs",
+              "DocumentMoniker": "C:\\Users\\lukyg\\OneDrive\\Escritorio\\FACU\\.NET\\.NET-TP\\WindowsFormsWithServices\\WindowsForms\\PersonaApiClient.cs",
+              "RelativeDocumentMoniker": "WindowsForms\\PersonaApiClient.cs",
+              "ToolTip": "C:\\Users\\lukyg\\OneDrive\\Escritorio\\FACU\\.NET\\.NET-TP\\WindowsFormsWithServices\\WindowsForms\\PersonaApiClient.cs",
+              "RelativeToolTip": "WindowsForms\\PersonaApiClient.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T22:22:19.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lukyg\\OneDrive\\Escritorio\\FACU\\.NET\\.NET-TP\\WindowsFormsWithServices\\WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\lukyg\\OneDrive\\Escritorio\\FACU\\.NET\\.NET-TP\\WindowsFormsWithServices\\WebAPI\\Program.cs",
+              "RelativeToolTip": "WebAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T22:16:59.247Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
