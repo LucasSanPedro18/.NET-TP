@@ -45,7 +45,7 @@ namespace WindowsForms
                 this.Persona.Email = emailTextBox.Text;
                 this.Persona.Telefono = telefonoTextBox.Text;
                 this.Persona.Direccion = direccionTextBox.Text;
-                this.Persona.Legajo = int.Parse(legajoTextBox.Text);
+                this.Persona.Legajo = int.Parse(legajoTextBox.Text); //Probar con el try parse
                 this.Persona.TipoPersona = int.Parse(tipoTextBox.Text);
                 this.Persona.FechaNac = fechaNacPicker.Text;
 

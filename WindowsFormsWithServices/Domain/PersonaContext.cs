@@ -3,16 +3,17 @@ using Microsoft.EntityFrameworkCore;
 
 namespace Domain
 {
-    internal class PersonaContext : DbContext
+    internal class AcademiaContext : DbContext
     {
         internal DbSet<Persona> Personas { get; set; }
+        internal DbSet<Plan> Planes { get; set; }
 
-        internal PersonaContext()
+        internal AcademiaContext()
         {
             this.Database.EnsureCreated();
         }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder) =>
-            optionsBuilder.UseSqlServer(@"Server=(localdb)\MSSQLLocalDB;Initial Catalog=PersonaDb");
+            optionsBuilder.UseSqlServer(@"Server=(localdb)\MSSQLLocalDB;Initial Catalog=AcademiaDb");
     }
 }

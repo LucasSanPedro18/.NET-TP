@@ -6,7 +6,7 @@ namespace Domain.Services
     {
         public void Add(Persona persona)
         {
-            using var context = new PersonaContext();
+            using var context = new AcademiaContext();
 
             context.Personas.Add(persona);
             context.SaveChanges();
@@ -14,7 +14,7 @@ namespace Domain.Services
 
         public void Delete(int id)
         {
-            using var context = new PersonaContext();
+            using var context = new AcademiaContext();
 
             Persona? personaToDelete = context.Personas.Find(id);
 
@@ -27,21 +27,21 @@ namespace Domain.Services
 
         public Persona? Get(int id)
         {
-            using var context = new PersonaContext();
+            using var context = new AcademiaContext();
 
             return context.Personas.Find(id);
         }
 
         public IEnumerable<Persona> GetAll()
         {
-            using var context = new PersonaContext();
+            using var context = new AcademiaContext();
 
             return context.Personas.ToList();
         }
 
         public void Update(Persona persona)
         {
-            using var context = new PersonaContext();
+            using var context = new AcademiaContext();
 
             Persona? personaToUpdate = context.Personas.Find(persona.Id);
 
